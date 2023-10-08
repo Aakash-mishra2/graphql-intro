@@ -1,9 +1,10 @@
 {
     "users": [
-        { "id": "23", "firstName": "Bill", "age" : 28},
-        { "id" : "40", "firstName": "Alex", "age": 40}
+        { "id": "23", "firstName": "Bill", "age" : 28, "companyId": "34"},
+        { "id" : "40", "firstName": "Alex", "age": 40, "companyId": "45"},
+        { "id" : "40", "firstName": "heley", "age": 40, "companyId": "45"}
     ],
-    "company": [
+    "companies": [
         {"id": "34", "name": "ibm", "desc": "software"},
         {"id": "45", "name": "altair", "desc": "associates"}
     ]
